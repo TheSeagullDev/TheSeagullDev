@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thingyman!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thingyman-DEV" alt="Thingyman-DEV" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?Thingyman-DEV=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
