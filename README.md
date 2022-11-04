@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm TheSeagullDev!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheSeagullDev" alt="TheSeagullDev" /> </p>
 
+[![@theseagulldev's Holopin board](https://holopin.me/theseagulldev)](https://holopin.io/@theseagulldev)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TheSeagullDev)](https://github.com/ryo-ma/github-profile-trophy)
 
