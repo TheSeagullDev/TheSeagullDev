@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **learning**
 
-- 🌱 I’m currently learning **Java and Python**
+- 🌱 I’m currently learning **Java and Web Dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheSeagullDev](https://github.com/TheSeagullDev)
 
