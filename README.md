@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theseagulldev&show_icons=true&theme=dark&locale=en" alt="theseagulldev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theseagulldev&" alt="theseagulldev" /></p>
+
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=11926&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark" alt="coding stats">
