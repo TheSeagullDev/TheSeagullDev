@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheSeagullDev](https://github.com/TheSeagullDev)
 
-- 💬 Ask me about **AP Computer Science A, or anything tech related**
+- 💬 Ask me about **AP Computer Science A, 3D printing, or anything tech related**
 
 - 📫 How to reach me **github.com/TheSeagullDev**
 
