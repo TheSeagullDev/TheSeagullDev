@@ -3,7 +3,7 @@
 ### A curious student always looking to learn!
 
 
-- 🔭 I'm currently working on **Flash: A better flashcard app**
+- 🔭 I'm currently working on **BOINK: A custom crew management software designed from the ground up**
 
 - 🌱 I'm currently learning **SvelteKit!**
 
